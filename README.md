@@ -2,6 +2,8 @@
 
 * Alternative to that paired TII
 
+## @STCStatus Trained on jgi@as.nad.ca
+
 ----
 ORIGINAL README
 ----
