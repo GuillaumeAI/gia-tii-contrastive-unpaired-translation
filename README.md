@@ -1,4 +1,10 @@
+# Intentions
 
+* Alternative to that paired TII
+
+----
+ORIGINAL README
+----
 
 # Contrastive Unpaired Translation (CUT)
 
